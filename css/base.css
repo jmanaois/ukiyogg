@@ -219,12 +219,7 @@ th {
 	padding: 0;
 }
 
-/** 
- * ===================================================================
- * 02. basic/base setup styles - (_basic.scss)
- *
- * ------------------------------------------------------------------- 
- */
+
 html {
 	font-size: 62.5%;
 	box-sizing: border-box;
@@ -252,20 +247,14 @@ button {
 	-webkit-font-smoothing: antialiased;
 }
 
-/**
- * Media - (_basic.scss)
- * ------------------------------------------------------------------- 
- */
+
 img,
 video {
 	max-width: 100%;
 	height: auto;
 }
 
-/**
- * Typography resets - (_basic.scss)
- * ------------------------------------------------------------------- 
- */
+
 div,
 dl,
 dt,
@@ -327,10 +316,7 @@ li {
 	display: block;
 }
 
-/**
- * links - (_basic.scss)
- * ------------------------------------------------------------------- 
- */
+
 a {
 	text-decoration: none;
 	line-height: inherit;
