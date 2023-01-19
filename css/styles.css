@@ -18,8 +18,8 @@
     /* color-1(#04776F)
      * color-2(#DD614A)
      */
-    --color-1                      : #04776F;
-    --color-2                      : #DD614A;
+    --color-1                      : #5a738e;
+    --color-2                      : #5a738e;
 
     /* feedback colors
      * color-error(#ffd1d2), color-success(#c8e675), 
@@ -5277,4 +5277,33 @@ body.search-is-visible .s-header__search-inner {
     .comment-respond form {
         padding-top : var(--vspace-1);
     }
+}
+
+.anya {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.anyachat {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.anyatxt {
+    text-align: center;
+}
+
+.jobhunter {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
